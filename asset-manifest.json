@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cashcow/static/css/main.8ef63b32.chunk.css",
+    "main.js": "/cashcow/static/js/main.e3b9a5e3.chunk.js",
+    "main.js.map": "/cashcow/static/js/main.e3b9a5e3.chunk.js.map",
+    "runtime~main.js": "/cashcow/static/js/runtime~main.0c1d9fe9.js",
+    "runtime~main.js.map": "/cashcow/static/js/runtime~main.0c1d9fe9.js.map",
+    "static/js/2.8244189c.chunk.js": "/cashcow/static/js/2.8244189c.chunk.js",
+    "static/js/2.8244189c.chunk.js.map": "/cashcow/static/js/2.8244189c.chunk.js.map",
+    "index.html": "/cashcow/index.html",
+    "precache-manifest.8c806e6075cbb1266765c88345862914.js": "/cashcow/precache-manifest.8c806e6075cbb1266765c88345862914.js",
+    "service-worker.js": "/cashcow/service-worker.js",
+    "static/css/main.8ef63b32.chunk.css.map": "/cashcow/static/css/main.8ef63b32.chunk.css.map",
+    "static/media/ad1.png": "/cashcow/static/media/ad1.754e2fbc.png",
+    "static/media/ad2.png": "/cashcow/static/media/ad2.f336928b.png",
+    "static/media/ad3.png": "/cashcow/static/media/ad3.fac9b7bd.png",
+    "static/media/ad4.png": "/cashcow/static/media/ad4.5e6d4ff0.png",
+    "static/media/index.less": "/cashcow/static/media/index.8a444e7e.less"
+  }
+}
