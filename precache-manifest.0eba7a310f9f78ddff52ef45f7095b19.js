@@ -1,19 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dbffede4a02cb3957e9c7d1803e1f32f",
+    "revision": "57d91027a93ef52f90f4e059c93b447f",
     "url": "/cashcow/index.html"
   },
   {
-    "revision": "0ef3e2742ccdbc69b774",
-    "url": "/cashcow/static/css/main.8ef63b32.chunk.css"
+    "revision": "ed18111a9679a6a4e6f3",
+    "url": "/cashcow/static/css/2.d6261cdf.chunk.css"
   },
   {
-    "revision": "16bdac5b99eba9ca1aa4",
-    "url": "/cashcow/static/js/2.8244189c.chunk.js"
+    "revision": "f43d468e53c249669c55",
+    "url": "/cashcow/static/css/main.4e765855.chunk.css"
   },
   {
-    "revision": "0ef3e2742ccdbc69b774",
-    "url": "/cashcow/static/js/main.e3b9a5e3.chunk.js"
+    "revision": "ed18111a9679a6a4e6f3",
+    "url": "/cashcow/static/js/2.61c71f20.chunk.js"
+  },
+  {
+    "revision": "f43d468e53c249669c55",
+    "url": "/cashcow/static/js/main.f41831b3.chunk.js"
   },
   {
     "revision": "71dee0f9a24f08fef7ed",
@@ -34,9 +38,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5e6d4ff0c699b9ac2bc8ffae5e7d57ff",
     "url": "/cashcow/static/media/ad4.5e6d4ff0.png"
-  },
-  {
-    "revision": "8a444e7e8a233d50d7725caf6f041277",
-    "url": "/cashcow/static/media/index.8a444e7e.less"
   }
 ]);
