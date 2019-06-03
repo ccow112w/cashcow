@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cashcow/static/css/main.4e765855.chunk.css",
+    "main.css": "/cashcow/static/css/main.770d1247.chunk.css",
     "main.js": "/cashcow/static/js/main.f41831b3.chunk.js",
     "main.js.map": "/cashcow/static/js/main.f41831b3.chunk.js.map",
     "runtime~main.js": "/cashcow/static/js/runtime~main.0c1d9fe9.js",
@@ -9,10 +9,11 @@
     "static/js/2.61c71f20.chunk.js": "/cashcow/static/js/2.61c71f20.chunk.js",
     "static/js/2.61c71f20.chunk.js.map": "/cashcow/static/js/2.61c71f20.chunk.js.map",
     "index.html": "/cashcow/index.html",
-    "precache-manifest.0eba7a310f9f78ddff52ef45f7095b19.js": "/cashcow/precache-manifest.0eba7a310f9f78ddff52ef45f7095b19.js",
+    "precache-manifest.cc2a1d94718e24fb125678f7c950d9f1.js": "/cashcow/precache-manifest.cc2a1d94718e24fb125678f7c950d9f1.js",
     "service-worker.js": "/cashcow/service-worker.js",
     "static/css/2.d6261cdf.chunk.css.map": "/cashcow/static/css/2.d6261cdf.chunk.css.map",
-    "static/css/main.4e765855.chunk.css.map": "/cashcow/static/css/main.4e765855.chunk.css.map",
+    "static/css/main.770d1247.chunk.css.map": "/cashcow/static/css/main.770d1247.chunk.css.map",
+    "static/media/index.less": "/cashcow/static/media/CowPrint.b4253816.jpg",
     "static/media/ad1.png": "/cashcow/static/media/ad1.754e2fbc.png",
     "static/media/ad2.png": "/cashcow/static/media/ad2.f336928b.png",
     "static/media/ad3.png": "/cashcow/static/media/ad3.fac9b7bd.png",

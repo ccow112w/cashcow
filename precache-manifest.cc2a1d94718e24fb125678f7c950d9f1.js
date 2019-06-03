@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57d91027a93ef52f90f4e059c93b447f",
+    "revision": "d3ac12c558e2f74def555d2c0e5b644a",
     "url": "/cashcow/index.html"
   },
   {
@@ -8,20 +8,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cashcow/static/css/2.d6261cdf.chunk.css"
   },
   {
-    "revision": "f43d468e53c249669c55",
-    "url": "/cashcow/static/css/main.4e765855.chunk.css"
+    "revision": "9a35d225919f3154b9cd",
+    "url": "/cashcow/static/css/main.770d1247.chunk.css"
   },
   {
     "revision": "ed18111a9679a6a4e6f3",
     "url": "/cashcow/static/js/2.61c71f20.chunk.js"
   },
   {
-    "revision": "f43d468e53c249669c55",
+    "revision": "9a35d225919f3154b9cd",
     "url": "/cashcow/static/js/main.f41831b3.chunk.js"
   },
   {
     "revision": "71dee0f9a24f08fef7ed",
     "url": "/cashcow/static/js/runtime~main.0c1d9fe9.js"
+  },
+  {
+    "revision": "b4253816f833bb7ed6b5a7c3fba6acf9",
+    "url": "/cashcow/static/media/CowPrint.b4253816.jpg"
   },
   {
     "revision": "754e2fbc60eac3d6e68ff02e935e20f9",
