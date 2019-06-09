@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cashcow/precache-manifest.cc2a1d94718e24fb125678f7c950d9f1.js"
+  "/cashcow/precache-manifest.c6e81de36f1388759259eef2a064871d.js"
 );
 
 self.addEventListener('message', (event) => {
